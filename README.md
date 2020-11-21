@@ -7,8 +7,8 @@ E esta parte é apenas o começo.
 
 Arquivos no repositório:
   
-  projeto.py: interface do programa
+        projeto.py: interface do programa
   
-  modulo_projeto.py: contém as classes utilizadas no programa
+        modulo_projeto.py: contém as classes utilizadas no programa
   
-  soccerball.ico: ícone da interface
+        soccerball.ico: ícone da interface
